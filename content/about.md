@@ -62,7 +62,7 @@ sections:
             icon_position: left
             new_window: true
             type: action
-      - title: 'Our '
+      - title: Our Mot
         subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
