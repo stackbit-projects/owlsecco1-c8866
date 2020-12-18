@@ -1,5 +1,5 @@
 ---
-title: Home
+title: OwlSec | Web Dev and Graphic Design
 sections:
   - type: hero_section
     template: hero_section
