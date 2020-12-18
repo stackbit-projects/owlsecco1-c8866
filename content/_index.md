@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     template: hero_section
-    title: Welcome to OwlSec
+    title: 'Welcome to OwlSec, the '
     subtitle: Optional hero section subtitle
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
