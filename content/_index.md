@@ -3,7 +3,9 @@ title: Home
 sections:
   - type: hero_section
     template: hero_section
-    title: 'Welcome to OwlSec, the I.T company leading the frontier'
+    title: >-
+      Welcome to OwlSec, the I.T company leading the frontier in this digital
+      age
     subtitle: Optional hero section subtitle
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
