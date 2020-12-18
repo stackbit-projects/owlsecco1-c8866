@@ -15,9 +15,9 @@ sections:
         title: Who are we?
         subtitle: ''
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+          We’re a deliberately small team of dedicated designers, developers and
+          marketers who solve our clients’ problems and help them achieve their
+          goals.
         image: images/about-5.jpg
         media_position: right
         media_width: fifty
