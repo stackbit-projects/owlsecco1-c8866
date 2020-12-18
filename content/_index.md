@@ -297,7 +297,7 @@ sections:
         template: action
         label: Contact Us
         url: /contact
-        style: primary
+        style: secondary
     actions_position: bottom
     align: center
     padding_top: large
