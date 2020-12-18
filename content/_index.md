@@ -297,7 +297,7 @@ sections:
         template: action
         label: Contact Us
         url: /contact
-        style: secondary
+        style: primary
         has_icon: true
         new_window: true
     actions_position: bottom
