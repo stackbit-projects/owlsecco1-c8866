@@ -59,7 +59,7 @@ sections:
             style: primary
             has_icon: true
             icon: arrow-right
-            icon_position: right
+            icon_position: left
             new_window: false
             type: action
   - type: grid_section
