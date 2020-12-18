@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     template: hero_section
     title: Explore Our Services
-    subtitle: Features Page Demo
+    subtitle: ''
     background_color: primary
   - type: features_section
     template: features_section
