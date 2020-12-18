@@ -23,7 +23,7 @@ sections:
         media_width: fifty
       - type: feature
         template: feature
-        title: Why Do We Do What We Do?
+        title: Why Do We Do What We Do
         subtitle: ''
         content: >-
           We do what we do for the digital tomorrow. We are enthusiastic about
