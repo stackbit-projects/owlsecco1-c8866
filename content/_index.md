@@ -299,6 +299,7 @@ sections:
         url: /contact
         style: primary
         has_icon: true
+        new_window: true
     actions_position: bottom
     align: center
     padding_top: large
