@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     template: hero_section
     title: About
-    subtitle: Who are we? Why do we do what we do? and How are we different?
+    subtitle: Who are we? Why do we do what we do? & How are we different?
     align: center
     background_color: secondary
   - type: features_section
