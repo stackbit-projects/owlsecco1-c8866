@@ -1,5 +1,5 @@
 ---
-title: 'Services | OwlSec '
+title: Services | OwlSec
 sections:
   - type: hero_section
     template: hero_section
