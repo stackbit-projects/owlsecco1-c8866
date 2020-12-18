@@ -4,8 +4,8 @@ sections:
   - type: hero_section
     template: hero_section
     title: >-
-      Welcome to OwlSec Co, a strategic  I.T company leading the frontier in
-      this digital age.
+      Welcome to OwlSec, a strategic  I.T company leading the frontier in this
+      digital age.
     subtitle: Let's Help You Make The Shift From Now To Next!
     content: >-
       We provide comprehensive services that help develop your brand in the ever
