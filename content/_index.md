@@ -71,7 +71,7 @@ sections:
     align: center
   - type: features_section
     template: features_section
-    title: Serv
+    title: Services
     subtitle: ''
     features:
       - type: feature
