@@ -184,7 +184,7 @@ sections:
   - type: cta_section
     template: cta_section
     title: This is a Call to Action
-    content: Ut egestas elementum suscipit. Quisque at hendrerit mauris.
+    content: ''
     actions:
       - type: action
         template: action
