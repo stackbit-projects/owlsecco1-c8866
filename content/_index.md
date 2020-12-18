@@ -6,7 +6,7 @@ sections:
     title: >-
       Welcome to OwlSec, the I.T company leading the frontier in this digital
       age.
-    subtitle: Let Us Help You Make The Move From Now To Next
+    subtitle: Let Us Help You Make The Move From Now To Next!
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
