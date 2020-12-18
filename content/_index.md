@@ -13,7 +13,7 @@ sections:
     actions:
       - type: action
         template: action
-        label: Try Free
+        label: ''
         url: /pricing
         style: primary
       - type: action
