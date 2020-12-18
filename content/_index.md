@@ -315,5 +315,5 @@ sections:
     padding_bottom: large
     background_color: secondary
 layout: advanced
-excerpt: 'OwlSec | Web Development '
+excerpt: OwlSec | Web Development and Graphic Design
 ---
