@@ -291,10 +291,7 @@ sections:
   - type: cta_section
     template: cta_section
     title: Ready To Get Started?
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
+    content: Let's work together and make the shift from now to next
     actions:
       - type: action
         template: action
