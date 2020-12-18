@@ -295,7 +295,7 @@ sections:
     actions:
       - type: action
         template: action
-        label: Button
+        label: C
         url: /pricing
         style: primary
     actions_position: bottom
