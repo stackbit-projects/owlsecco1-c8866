@@ -62,27 +62,6 @@ sections:
             icon_position: left
             new_window: true
             type: action
-      - title: Our Mission
-        subtitle: ''
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
-        actions: []
-        video_embed_html: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-        media_position: top
-        media_width: fifty
-        align: left
-        type: feature
   - type: grid_section
     template: grid_section
     title: Our Officess
