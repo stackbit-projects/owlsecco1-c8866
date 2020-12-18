@@ -150,7 +150,7 @@ sections:
     align: center
     background_color: none
     actions:
-      - label: lorem-ipsum
+      - label: lorem-ipsumM
         url: lorem-ipsum
         style: link
         has_icon: false
