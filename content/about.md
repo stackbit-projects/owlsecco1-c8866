@@ -65,7 +65,7 @@ sections:
   - type: cta_section
     template: cta_section
     title: Let's Work Together
-    content: Ut egestas elementum suscipit. Quisque at hendrerit mauris.
+    content: ''
     actions:
       - type: action
         template: action
