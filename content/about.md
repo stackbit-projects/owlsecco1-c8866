@@ -26,9 +26,9 @@ sections:
         title: Why Do We Do What We Do?
         subtitle: ''
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+          We do what we do for the digital tomorrow. We are enthusiastic about
+          helping our clients stand out in the digital world by equiping them
+          with a good brand, an amazing website and more.
         image: images/about-2.jpg
         media_position: left
         media_width: fifty
