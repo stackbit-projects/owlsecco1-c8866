@@ -6,7 +6,7 @@ sections:
     title: >-
       Welcome to OwlSec, the I.T company leading the frontier in this digital
       age.
-    subtitle: Optional hero section subtitle
+    subtitle: ''
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
