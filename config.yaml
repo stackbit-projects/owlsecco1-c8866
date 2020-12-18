@@ -6,7 +6,7 @@ params:
     digital age.
   layout: boxed
   style: classic
-  palette: blue
+  palette: red
   mode: light
   base_font: serif
   header:
