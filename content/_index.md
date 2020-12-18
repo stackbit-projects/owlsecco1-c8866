@@ -215,10 +215,7 @@ sections:
   - type: cta_section
     template: cta_section
     title: Get Your Free Consultation Today!
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
+    content: ''
     actions:
       - type: action
         template: action
