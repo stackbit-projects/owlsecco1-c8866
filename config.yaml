@@ -136,7 +136,7 @@ params:
       - type: action
         template: action
         label: OwlSec is on LinkedIn
-        url: 'https://www.linkedin.com/'
+        url: 'https://www.linkedin.com/in/owlsecco'
         style: link
         has_icon: true
         icon: linkedin
