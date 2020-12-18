@@ -74,7 +74,7 @@ params:
         icon_position: right
         new_window: false
         type: action
-      - label: lorem-ipsum
+      - label: Case Studies
         url: lorem-ipsum
         style: link
         has_icon: false
