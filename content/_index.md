@@ -296,7 +296,7 @@ sections:
       - type: action
         template: action
         label: Contact Us
-        url: /pricing
+        url: /contact
         style: primary
     actions_position: bottom
     align: center
