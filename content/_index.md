@@ -72,7 +72,7 @@ sections:
   - type: grid_section
     template: grid_section
     title: Services
-    subtitle: ''
+    subtitle: ' '
     grid_items:
       - type: grid_item
         template: grid_item
