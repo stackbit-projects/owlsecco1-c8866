@@ -13,7 +13,7 @@ sections:
     actions:
       - type: action
         template: action
-        label: ''
+        label: Free Consultation
         url: /pricing
         style: primary
       - type: action
