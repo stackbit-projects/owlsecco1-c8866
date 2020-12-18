@@ -1,7 +1,9 @@
 title: Stackbit DIY Theme
 baseURL: /
 params:
-  description: A "do it yourself" theme for Stackbit
+  description: >-
+    Welcome to OwlSec, the strategic  I.T company leading the frontier in this
+    digital age.
   layout: boxed
   style: classic
   palette: green
