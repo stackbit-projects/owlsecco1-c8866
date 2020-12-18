@@ -12,7 +12,7 @@ sections:
     features:
       - type: feature
         template: feature
-        title: Section Title One
+        title: Who are we?
         subtitle: 'Odio et tortor laoreet, sed interdum augue ornare. '
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
