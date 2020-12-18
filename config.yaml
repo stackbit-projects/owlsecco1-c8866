@@ -142,6 +142,14 @@ params:
         icon: linkedin
         icon_position: center
         new_window: true
+      - label: lorem-ipsum
+        url: lorem-ipsum
+        style: link
+        has_icon: false
+        icon: arrow-left
+        icon_position: right
+        new_window: false
+        type: action
     content: >-
       &copy; OwlSec Co. All rights reserved. This is a JAMStack site created on
       <a href="https://www.stackbit.com" target="_blank"
