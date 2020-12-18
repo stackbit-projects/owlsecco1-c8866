@@ -5,7 +5,7 @@ params:
     Welcome to OwlSec, the strategic  I.T company leading the frontier in this
     digital age.
   layout: boxed
-  style: bold
+  style: minimal
   palette: green
   mode: light
   base_font: serif
