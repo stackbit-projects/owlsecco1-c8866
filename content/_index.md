@@ -31,7 +31,7 @@ sections:
   - type: grid_section
     template: grid_section
     title: Happy Clients
-    subtitle: 'Some of '
+    subtitle: Some of Our Clients
     grid_items:
       - type: grid_item
         template: grid_item
