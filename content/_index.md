@@ -122,7 +122,7 @@ sections:
         image_has_padding: true
       - type: grid_item
         template: grid_item
-        title: Web Performance & Search Engine Testing and Optimization
+        title: Web Performance & Search Engine Optimization
         title_align: left
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
