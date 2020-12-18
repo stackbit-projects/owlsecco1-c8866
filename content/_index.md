@@ -72,7 +72,7 @@ sections:
   - type: features_section
     template: features_section
     title: Features Section
-    subtitle: Features Section Example
+    subtitle: ''
     features:
       - type: feature
         template: feature
