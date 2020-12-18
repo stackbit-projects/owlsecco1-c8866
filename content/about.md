@@ -37,9 +37,19 @@ sections:
         title: How we are different
         subtitle: ''
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+          We’ve loved creating brands, building websites and giving tech advice
+          for our clients since 2018.
+
+
+          But a little while ago we realised what really matters to us is when
+          we make a big difference to our clients’ businesses.
+
+
+          This is the reason we get up in the morning and reach out to you.
+
+
+          If you need help to grow your business and want to put yourself in the
+          hands of experts, we should talk.
         image: images/about-1.jpg
         media_position: right
         media_width: fifty
