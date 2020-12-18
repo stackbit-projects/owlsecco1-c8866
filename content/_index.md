@@ -150,7 +150,7 @@ sections:
     align: center
     background_color: none
     actions:
-      - label: All Our Services
+      - label: More Services
         url: /services
         style: secondary
         has_icon: true
