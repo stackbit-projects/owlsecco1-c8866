@@ -64,7 +64,7 @@ sections:
             type: action
   - type: grid_section
     template: grid_section
-    title: Our Officess
+    title: Our Offices
     grid_items:
       - type: grid_item
         template: grid_item
