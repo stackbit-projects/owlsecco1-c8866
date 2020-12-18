@@ -118,7 +118,7 @@ params:
       - type: action
         template: action
         label: OwlSec on Twitter
-        url: 'https://twitter.com/'
+        url: 'https://twitter.com/owlsec'
         style: link
         has_icon: true
         icon: twitter
