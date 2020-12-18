@@ -11,7 +11,7 @@ params:
     type: header
     template: header
     title: OwlSec Co
-    logo: /images/blue-pineapple.png
+    logo: /images/gradient icon logo.png
     has_primary_nav: true
     primary_nav_links:
       - type: action
