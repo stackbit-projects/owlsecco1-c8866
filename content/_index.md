@@ -219,7 +219,7 @@ sections:
     actions:
       - type: action
         template: action
-        label: Learn More
+        label: Consult!
         url: /features
         style: secondary
     actions_position: right
