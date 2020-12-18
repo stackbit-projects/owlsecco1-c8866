@@ -8,8 +8,8 @@ sections:
       age.
     subtitle: Let's Help You Make The Shift From Now To Next!
     content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+      We provide comprehensive services that help develop your brand in the ever
+      growing digital world 
     actions:
       - type: action
         template: action
