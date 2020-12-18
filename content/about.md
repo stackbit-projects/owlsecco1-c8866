@@ -12,7 +12,7 @@ sections:
     features:
       - type: feature
         template: feature
-        title: Who Are we?
+        title: Who Are We?
         subtitle: ''
         content: >-
           We’re a deliberately small team of dedicated designers, developers and
