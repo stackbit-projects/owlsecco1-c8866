@@ -1,5 +1,5 @@
 ---
-title: OwlSec | Web Dev and Graphic Design in Nairobi
+title: OwlSec | Web Development and Graphic Design in Nairobi
 sections:
   - type: hero_section
     template: hero_section
