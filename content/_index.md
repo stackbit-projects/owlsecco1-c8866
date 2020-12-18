@@ -154,7 +154,7 @@ sections:
         url: /services
         style: secondary
         has_icon: true
-        icon: arrow-left
+        icon: arrow-right
         icon_position: right
         new_window: false
         type: action
