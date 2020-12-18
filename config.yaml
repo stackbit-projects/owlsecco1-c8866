@@ -67,7 +67,7 @@ params:
         url: /about
         style: link
       - label: Services
-        url: lorem-ipsum
+        url: /services
         style: link
         has_icon: false
         icon: arrow-left
