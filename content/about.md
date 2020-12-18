@@ -65,7 +65,7 @@ sections:
   - type: cta_section
     template: cta_section
     title: Let's Work Together
-    content: ''
+    content: Get Started
     actions:
       - type: action
         template: action
