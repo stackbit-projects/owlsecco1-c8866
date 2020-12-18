@@ -34,7 +34,7 @@ sections:
         media_width: fifty
       - type: feature
         template: feature
-        title: How Are We Different?
+        title: How we are Different?
         subtitle: 'Donec nisl ligula, cursus id molestie vel. '
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
