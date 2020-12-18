@@ -183,7 +183,7 @@ sections:
     background_color: secondary
   - type: cta_section
     template: cta_section
-    title: This is a Call to Action
+    title: Claim Your Free Consultation
     content: ''
     actions:
       - type: action
