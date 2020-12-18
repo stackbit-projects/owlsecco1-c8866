@@ -7,7 +7,7 @@ params:
   layout: boxed
   style: classic
   palette: green
-  mode: light
+  mode: dark
   base_font: serif
   header:
     type: header
