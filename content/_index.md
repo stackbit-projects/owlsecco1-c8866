@@ -69,20 +69,6 @@ sections:
     grid_gap_vert: medium
     grid_gap_horiz: medium
     align: center
-  - type: features_section
-    template: features_section
-    features:
-      - type: feature
-        template: feature
-        title: >-
-          “Stackbit is fast! Themes are always up to date. It’s easy to use
-          across the organization, and collaboration is easy.”
-        subtitle: 'Brandon Guidelines, Sr. Design Manager at Company'
-        image: images/brandon-guidelines.png
-        media_position: right
-        media_width: thirty-three
-    feature_padding_vert: small
-    background_color: primary
   - type: grid_section
     template: grid_section
     title: Cards Grid Section
