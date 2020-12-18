@@ -161,8 +161,8 @@ params:
         icon_position: center
         new_window: true
     content: >-
-      &copy; OwlSec Co. All rights reserved. This Jamstack site was created on
-      <a href="https://www.stackbit.com" target="_blank"
+      &copy; OwlSec Co. All rights reserved. This is a Jamstack site was created
+      on <a href="https://www.stackbit.com" target="_blank"
       rel="noopener">Stackbit</a>.
 taxonomies:
   stub: stub
