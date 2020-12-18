@@ -238,7 +238,7 @@ sections:
         title: Gustav Purpleson
         subtitle: Co-Founder & CEO
         title_align: center
-        image: images/gustav-purpleson.jpg
+        image: /images/author.jpg
         image_position: top
       - type: grid_item
         template: grid_item
