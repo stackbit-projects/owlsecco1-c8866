@@ -21,7 +21,7 @@ sections:
         label: Learn More
         url: /features
         style: secondary
-    image: /images/undraw_data_xmfy.svg
+    image: /images/undraw_solution_mindset_34bi.svg
     media_position: left
     media_width: fifty
     align: left
