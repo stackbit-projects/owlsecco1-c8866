@@ -54,7 +54,7 @@ sections:
         media_position: right
         media_width: fifty
         actions:
-          - label: lorem-ipsumTa
+          - label: Talk t
             url: lorem-ipsum
             style: link
             has_icon: false
