@@ -55,7 +55,7 @@ sections:
         media_width: fifty
         actions:
           - label: Talk To Us
-            url: lorem-ipsum
+            url: /contact
             style: link
             has_icon: false
             icon: arrow-left
