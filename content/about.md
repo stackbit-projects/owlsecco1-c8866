@@ -60,7 +60,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: left
-            new_window: false
+            new_window: true
             type: action
   - type: grid_section
     template: grid_section
