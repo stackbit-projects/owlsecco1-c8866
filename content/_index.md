@@ -235,7 +235,7 @@ sections:
     grid_items:
       - type: grid_item
         template: grid_item
-        title: Gustav Purpleson
+        title: Stephen Ajulu
         subtitle: Co-Founder & CEO
         title_align: center
         image: /images/author.jpg
