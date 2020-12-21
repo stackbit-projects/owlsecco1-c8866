@@ -240,7 +240,7 @@ sections:
       - type: grid_item
         template: grid_item
         title: Ryan Onyango
-        subtitle: Software Engineer
+        subtitle: Co-
         title_align: center
         image: /images/rsz_2img_20191108_170642_2_1599297948695.jpg
         image_position: top
