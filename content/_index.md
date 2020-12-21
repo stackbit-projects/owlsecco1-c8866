@@ -156,12 +156,10 @@ sections:
     grid_items:
       - type: grid_item
         template: grid_item
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
+        content: |-
+          Their graphic design is legit. Got my logo and i love it.
 
-
-          **Hanson Deck,** *App Developer, Studio*
+          **Bryan Oteng,** *Clothing Brand*
         image: images/hanson-deck.png
         image_position: left
         image_width: twenty-five
