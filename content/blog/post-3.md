@@ -9,7 +9,7 @@ tags:
   - data/tags/stackbit.json
   - data/tags/jamstack.json
 excerpt: ''
-thumb_image: images/classic/post-3.png
+thumb_image: /images/download (1).jpeg
 image: images/classic/post-3.png
 image_position: top
 layout: post
