@@ -246,7 +246,7 @@ sections:
         image_position: top
       - type: grid_item
         template: grid_item
-        title: Hugh Saturation
+        title: Edwin Musau
         subtitle: Developer Advocate
         title_align: center
         image: /images/IMG_20200911_092102 (Custom).jpg
