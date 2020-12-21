@@ -116,7 +116,7 @@ sections:
         image_has_padding: true
       - type: grid_item
         template: grid_item
-        title: Web Performance & Searce Optimization
+        title: Web Performance Optimization
         title_align: left
         content: ''
         content_align: left
