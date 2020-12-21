@@ -233,7 +233,7 @@ sections:
       - type: grid_item
         template: grid_item
         title: Stephen Ajulu
-        subtitle: Co-Founder & CEO
+        subtitle: Co-Founder & C.EO
         title_align: center
         image: /images/author (Custom).jpg
         image_position: top
