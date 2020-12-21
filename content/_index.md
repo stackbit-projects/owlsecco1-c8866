@@ -171,7 +171,7 @@ sections:
 
 
           **Morris Ojwang,** *PrimeTech Solutions*
-        image: images/miles-tone.png
+        image: /images/Primetech logo 2.jpg
         image_position: left
         image_width: twenty-five
       - type: grid_item
