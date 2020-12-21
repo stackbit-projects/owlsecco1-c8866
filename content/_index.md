@@ -235,7 +235,7 @@ sections:
         title: Stephen Ajulu
         subtitle: Founder & I.T Consultant
         title_align: center
-        image: /images/author (Custom).jpg
+        image: /images/stephenajulu.jpg
         image_position: top
       - type: grid_item
         template: grid_item
