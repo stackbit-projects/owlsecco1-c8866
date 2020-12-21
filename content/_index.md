@@ -235,7 +235,7 @@ sections:
         title: Stephen Ajulu
         subtitle: Co-Founder & CEO
         title_align: center
-        image: /images/author.jpg
+        image: /images/author (Custom).jpg
         image_position: top
       - type: grid_item
         template: grid_item
