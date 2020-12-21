@@ -249,7 +249,7 @@ sections:
         title: Hugh Saturation
         subtitle: Developer Advocate
         title_align: center
-        image: images/hugh-saturation.jpg
+        image: /images/IMG_20200911_092102 (Custom).jpg
         image_position: top
       - type: grid_item
         template: grid_item
