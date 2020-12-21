@@ -247,7 +247,7 @@ sections:
       - type: grid_item
         template: grid_item
         title: Edwin Musau
-        subtitle: Developer Advocate
+        subtitle: Web Developer and Graphic Designer
         title_align: center
         image: /images/IMG_20200911_092102 (Custom).jpg
         image_position: top
