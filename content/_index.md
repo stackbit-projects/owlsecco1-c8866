@@ -78,10 +78,7 @@ sections:
         template: grid_item
         title: Web Development and Design
         title_align: left
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: ''
         content_align: left
         actions:
           - type: action
