@@ -1,5 +1,5 @@
 ---
-title: 10 INTERNET Safety Tips
+title: 10 Internet Safety Tips
 subtitle: >-
   Innumerabilia dici possunt in hanc sententiam, sed non necesse est. Putabam
   equidem satis, inquit, me dixisse.
