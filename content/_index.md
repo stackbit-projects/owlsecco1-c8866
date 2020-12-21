@@ -233,7 +233,7 @@ sections:
       - type: grid_item
         template: grid_item
         title: Stephen Ajulu
-        subtitle: 'Founder, C.E.O & Web Dev'
+        subtitle: 'Founder, C.E.O & I.T Consultant'
         title_align: center
         image: /images/author (Custom).jpg
         image_position: top
