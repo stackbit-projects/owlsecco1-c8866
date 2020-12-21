@@ -222,7 +222,7 @@ sections:
   - type: grid_section
     template: grid_section
     title: Team Section
-    subtitle: Grid Section Example
+    subtitle: ''
     actions:
       - type: action
         template: action
