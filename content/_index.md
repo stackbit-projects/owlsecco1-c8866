@@ -264,7 +264,7 @@ sections:
   - type: blog_feed_section
     template: blog_feed_section
     title: What's New
-    subtitle: Blog Feed Section Example
+    subtitle: ''
     actions:
       - type: action
         template: action
