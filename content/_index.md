@@ -166,11 +166,11 @@ sections:
       - type: grid_item
         template: grid_item
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
+          Asked for a logo and they gave me a brand. Even my customers commented
+          on the uniqueness.
 
 
-          **Miles Tone,** *CEO, Studio*
+          **Morris Ojwang,** *PrimeTech Solutions*
         image: images/miles-tone.png
         image_position: left
         image_width: twenty-five
