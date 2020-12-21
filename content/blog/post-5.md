@@ -19,9 +19,23 @@ image: images/classic/post-5.png
 image_position: right
 layout: post
 ---
+Any business that wishes to be competitive in the online or offline market must have a professional website. Internet has become the leading resource for people to find information, with business research being a leading reason to perform a search on the web.
 
-Donec ultrices tincidunt arcu non sodales neque. Et netus et malesuada fames ac turpis egestas sed tempus. Cras pulvinar mattis nunc sed. Turpis cursus in hac habitasse platea dictumst quisque sagittis. Sollicitudin nibh sit amet commodo nulla facilisi nullam. Posuere ac ut consequat semper viverra nam. Ac tortor vitae purus faucibus ornare suspendisse sed nisi lacus. Egestas sed sed risus pretium quam vulputate dignissim suspendisse in. Tempor orci eu lobortis elementum nibh. Senectus et netus et malesuada fames ac turpis egestas integer. Id cursus metus aliquam eleifend mi in nulla posuere sollicitudin. Sed nisi lacus sed viverra tellus. Non curabitur gravida arcu ac tortor dignissim convallis aenean.
+Businesses that do not have a professionally created website risk losing potential customers on the Internet and in their storefronts. Consumers are evaluating products and companies long before they decide to make a purchase, and if your website does not seem professional or secure, they will simply move on to the next vendor.
 
-Sem et tortor consequat id porta. Diam sit amet nisl suscipit adipiscing bibendum est ultricies. Amet nulla facilisi morbi tempus. Blandit massa enim nec dui nunc mattis. Non enim praesent elementum facilisis leo vel fringilla est. Eleifend quam adipiscing vitae proin sagittis nisl rhoncus. Mauris pellentesque pulvinar pellentesque habitant morbi tristique senectus et netus. Eget nunc lobortis mattis aliquam faucibus purus. Volutpat ac tincidunt vitae semper quis. Cursus eget nunc scelerisque viverra mauris. Purus semper eget duis at tellus at urna. Mauris commodo quis imperdiet massa tincidunt nunc pulvinar sapien. Sit amet consectetur adipiscing elit pellentesque habitant morbi tristique senectus. Nunc non blandit massa enim nec. Ut porttitor leo a diam sollicitudin.
+While sales and credibility are the two main factors for having a professional website created for your business, the following 5 reasons will help you understand why a professionally created website is crucial to your business.
 
-Tincidunt tortor aliquam nulla facilisi cras. Id semper risus in hendrerit. Magna fermentum iaculis eu non. At consectetur lorem donec massa sapien faucibus et. Est placerat in egestas erat imperdiet sed euismod nisi porta. Lacus vel facilisis volutpat est velit egestas dui. Sapien pellentesque habitant morbi tristique senectus et. Ut tellus elementum sagittis vitae et. Et malesuada fames ac turpis. Volutpat commodo sed egestas egestas. Praesent tristique magna sit amet purus gravida quis. Turpis egestas pretium aenean pharetra.
+- Custom design
+When you hire a professional web agency you know that your site will be created to suit your business. The web designer will evaluate your business and products, and work with you towards your goal is for the website. Do you want to generate online sales? Walk-in sales? Will your site be for informational purposes only? Once these and other questions are answered, your site will be designed to meet your specific needs. DIY site builders limit the capabilities of their site and often restrict graphics and text. A professional web designer is not captive to these restrictions.
+
+- Visual properties
+The way your site looks, the way it navigates, and the colors and graphics used are very important. Visitors do not like to search for information, nor do they wish to be barraged with loud colors and crowded text. A professional designer will make sure that your color scheme, text and navigation are designed to be user-friendly.
+
+- New technologies
+The Internet changes on a daily basis. New technologies, new computer code, new ways to draw visitors to your site happen each and every day. When using a professional web designer, you can be assured that the site is being created with the latest technologies and according to the latest trends, for optimal success. Many DIY site builders will not allow video, RSS feeds, or links in your website, which can adversely affect your site.
+
+- SEO compliance
+SEO or Search Engine Optimization is a technique used by professional web designers to make your website receive great rankings from search engines. If search engines cannot find your site easily, your potential clients will not either. Your site must be optimized in order to be found.
+
+- Webmaster services
+Contrary to what many people believe, a website is never complete. Websites must have continual maintenance to keep them current and relevant to their industry. Technology is continually changing, and for websites to remain popular and successful, they must remain up-to-date with these trends. When using a professional web design service, you benefit from their webmaster services to keep your site updated and fresh.
