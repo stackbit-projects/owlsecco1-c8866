@@ -160,7 +160,7 @@ sections:
           Their graphic design is legit. Got my logo and i love it.
 
           **Bryan Oteng,** *Clothing Brand*
-        image: images/hanson-deck.png
+        image: /images/BROTEMU 1.8.jpg
         image_position: left
         image_width: twenty-five
       - type: grid_item
