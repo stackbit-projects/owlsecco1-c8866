@@ -239,7 +239,7 @@ sections:
         image_position: top
       - type: grid_item
         template: grid_item
-        title: Dianne Ameter
+        title: 'Ryan '
         subtitle: Software Engineer
         title_align: center
         image: images/dianne-ameter.jpg
