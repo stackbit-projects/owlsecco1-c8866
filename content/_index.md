@@ -254,7 +254,7 @@ sections:
       - type: grid_item
         template: grid_item
         title: Mitchell Kinara
-        subtitle: Operations Manager
+        subtitle: 'Animator & '
         title_align: center
         image: /images/mitchellkinara.png
         image_position: top
