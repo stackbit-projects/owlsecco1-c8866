@@ -152,7 +152,7 @@ sections:
   - type: grid_section
     template: grid_section
     title: Reviews Section
-    subtitle: Grid Section Example
+    subtitle: ''
     grid_items:
       - type: grid_item
         template: grid_item
