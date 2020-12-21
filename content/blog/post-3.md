@@ -8,10 +8,7 @@ categories:
 tags:
   - data/tags/stackbit.json
   - data/tags/jamstack.json
-excerpt: >-
-  Quis est, qui non oderit libidinosam, protervam adolescentiam? Innumerabilia
-  dici possunt in hanc sententiam, sed non necesse est. Putabam equidem satis,
-  inquit, me dixisse.
+excerpt: ''
 thumb_image: images/classic/post-3.png
 image: images/classic/post-3.png
 image_position: top
