@@ -253,7 +253,7 @@ sections:
         image_position: top
       - type: grid_item
         template: grid_item
-        title: Hilary Ouse
+        title: Mitchel Kinara
         subtitle: Operations Manager
         title_align: center
         image: /images/mitchellkinara.png
