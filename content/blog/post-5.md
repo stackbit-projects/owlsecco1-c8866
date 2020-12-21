@@ -8,7 +8,6 @@ author: data/team/gustav-purpleson.json
 categories:
   - data/categories/tutorials.json
 tags:
-  - data/tags/stackbit.json
   - data/tags/netlify.json
 excerpt: >-
   Estne, quaeso, inquam, sitienti in bibendo voluptas? Iam in altera
