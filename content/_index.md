@@ -174,17 +174,6 @@ sections:
         image: /images/Primetech logo 2.jpg
         image_position: left
         image_width: twenty-five
-      - type: grid_item
-        template: grid_item
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
-
-
-          **Gordon Norman,** *Web Designer, Studio*
-        image: images/gordon-norman.png
-        image_position: left
-        image_width: twenty-five
     grid_cols: two
     grid_gap_vert: large
     grid_gap_horiz: medium
