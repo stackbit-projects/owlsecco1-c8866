@@ -8,7 +8,7 @@ params:
   style: classic
   palette: green
   mode: light
-  base_font: sans-serif
+  base_font: serif
   header:
     type: header
     template: header
