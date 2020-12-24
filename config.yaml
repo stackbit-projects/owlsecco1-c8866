@@ -55,7 +55,7 @@ params:
     anncmnt_align: center
     anncmnt_is_home_only: true
     anncmnt_has_close: false
-    anncmnt_id: new-features
+    anncmnt_id: bronze-webmail
   footer:
     type: footer
     template: footer
