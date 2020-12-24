@@ -54,7 +54,7 @@ params:
       at only ksh. 1000. <a href="/bronze-mail">Learn More</a>
     anncmnt_align: center
     anncmnt_is_home_only: true
-    anncmnt_has_close: false
+    anncmnt_has_close: true
     anncmnt_id: bronze-webmail
   footer:
     type: footer
