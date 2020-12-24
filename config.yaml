@@ -52,7 +52,7 @@ params:
     anncmnt_content: >-
       Gain a free 1 year .co.ke domain name by buying our bronze webmail package
       at only ksh. 1000.
-    anncmnt_align: left
+    anncmnt_align: center
     anncmnt_is_home_only: true
     anncmnt_has_close: true
     anncmnt_id: new-features
